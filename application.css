@@ -1,0 +1,25 @@
+.html{
+    background: linear-gradient(#5c6a9c, #002280);
+}
+.body {
+    background: linear-gradient(#5c6a9c, #002280);
+    height: 100vh;
+}
+
+.form-user {
+    background-color: green;
+}
+
+.descrip{
+    display: flex;
+    vertical-align: middle;
+    /* margin-top: -300px; */
+}
+
+.ville {}
+
+.zoneimge {}
+
+.img {
+    width: 10%;
+}
